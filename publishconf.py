@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://pynorte.github.io/pyconamazonia2018-site/'
+SITEURL = 'https://pynorte.github.io/pyconamazonia2018-site'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
