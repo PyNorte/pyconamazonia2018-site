@@ -1,15 +1,15 @@
-# **PyCon Amazônia 2017. Site Oficial**
+# **PyCon Amazônia 2018. Site Oficial**
 
 [![Build Status](https://travis-ci.org/PyNorte/pyconamazonia2017-site.svg?branch=master)](https://travis-ci.org/PyNorte/pyconamazonia2017-site)
 
-Esse é o portal oficial da **PyCon Amazônia 2017**, criado de maneira colaborativa.
+Esse é o portal oficial da **PyCon Amazônia 2018**, criado de maneira colaborativa.
 
-https://pynorte.github.io/pyconamazonia2017-site/
+https://pynorte.github.io/pyconamazonia2018-site/
 
 
 ## **Contribuições**
 
-Se você tem interesse de contribuir com o site, faça o fork desse repositorio clicando [aqui](https://github.com/PyNorte/pyconamazonia2017-site/fork), em seguida, faça o clone do seu fork da seguinte forma:
+Se você tem interesse de contribuir com o site, faça o fork desse repositorio clicando [aqui](https://github.com/PyNorte/pyconamazonia2018-site/fork), em seguida, faça o clone do seu fork da seguinte forma:
 
 ```
 $ git clone https://github.com/seu_usuario_do_github/pyconamazonia2017-site.git
